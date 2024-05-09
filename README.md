@@ -1,4 +1,5 @@
 # 3D-Gaussian-Splatting-
+An implementation of paper [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/).
 
 # Train Steps-
 
