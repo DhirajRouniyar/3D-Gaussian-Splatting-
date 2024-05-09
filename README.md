@@ -4,7 +4,9 @@ The algorithm takes image from multiple views, a sparse point cloud, and camera 
 [dataset](https://drive.google.com/drive/folders/1FfYRrKjHXwqhbaOIGE1_AspUxMOWXqmN?usp=sharing), 
 [trained output logs (.parquet)](https://drive.google.com/drive/folders/1fnJib6JGTc9BAMBZIpcgKRhYR-L3o5Wn?usp=sharing), 
 [event for Tensorboard](https://drive.google.com/file/d/1rEgp3nYl6l-JG8jQyG5fybu5JF_Ei_9r/view?usp=sharing) and 
-[Results](https://drive.google.com/drive/folders/1grh0cva9WUlQwC5ljeca-hEmrWze8yUJ?usp=sharing).
+[Results](https://drive.google.com/drive/folders/1grh0cva9WUlQwC5ljeca-hEmrWze8yUJ?usp=sharing).  
+
+Email to [dkrouniyar@wpi.edu]() to get the code.
 
 # Train Steps-
 
