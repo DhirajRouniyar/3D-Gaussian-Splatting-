@@ -16,7 +16,7 @@ Email to [dkrouniyar@wpi.edu]() to get the code.
 
 ![alt text](https://github.com/DhirajRouniyar/3D-Gaussian-Splatting-/blob/main/Output/ss2.png)
 
-![alt text](https://github.com/DhirajRouniyar/3D-Gaussian-Splatting-/blob/main/Output/Ignatius_3DGS_result_gif_HQ.gif)
+![alt text](https://github.com/DhirajRouniyar/3D-Gaussian-Splatting-/blob/main/Output/20250308050237.mp4)
 
 #Train/Loss Graph-
 
